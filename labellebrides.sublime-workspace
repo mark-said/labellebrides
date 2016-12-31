@@ -4,36 +4,52 @@
 		"selected_items":
 		[
 			[
-				"mar",
+				"marg",
 				"margin-bottom"
 			],
 			[
-				"fon",
-				"font-weight"
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
 			],
 			[
 				"margin",
-				"margin-top"
+				"margin-left"
 			],
 			[
 				"ma",
+				"margin-bottom"
+			],
+			[
+				"max",
 				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
 			],
 			[
 				"l",
 				"left"
 			],
 			[
-				"marg",
-				"margin-left"
-			],
-			[
 				"margin-",
 				"margin-right"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"mari",
@@ -68,20 +84,12 @@
 				"text-transform"
 			],
 			[
-				"t",
-				"text-transform"
-			],
-			[
 				"fad",
 				"fadeIn"
 			],
 			[
 				"min",
 				"min-width"
-			],
-			[
-				"max",
-				"max-height"
 			],
 			[
 				"brand-",
@@ -124,16 +132,8 @@
 				"margin-top"
 			],
 			[
-				"font-",
-				"font-weight"
-			],
-			[
 				"bac",
 				"background"
-			],
-			[
-				"padd",
-				"padding-right"
 			],
 			[
 				"padding-",
@@ -520,10 +520,26 @@
 	"buffers":
 	[
 		{
-			"file": "styles/src/sass/components/_modal.scss",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 243,
+				"buffer_size": 7257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "thanks.html",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hire.html",
+			"settings":
+			{
+				"buffer_size": 6036,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,15 +547,7 @@
 			"file": "styles/src/sass/sections/_product-page.scss",
 			"settings":
 			{
-				"buffer_size": 823,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "product-details.html",
-			"settings":
-			{
-				"buffer_size": 5707,
+				"buffer_size": 1375,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,63 +555,7 @@
 			"file": "styles/src/sass/components/_footer.scss",
 			"settings":
 			{
-				"buffer_size": 165,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/src/sass/sections/_homepage.scss",
-			"settings":
-			{
-				"buffer_size": 746,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 5406,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/src/sass/components/_header.scss",
-			"settings":
-			{
-				"buffer_size": 542,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/src/sass/_type.scss",
-			"settings":
-			{
-				"buffer_size": 5249,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/src/base-manifest.scss",
-			"settings":
-			{
-				"buffer_size": 706,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/src/sass/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 3739,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/src/sass/components/_product-list.scss",
-			"settings":
-			{
-				"buffer_size": 732,
+				"buffer_size": 184,
 				"line_ending": "Unix"
 			}
 		}
@@ -611,16 +563,16 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 207.0,
 		"selected_items":
 		[
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"gist",
 				"Gist: Insert Gist"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"instal",
@@ -696,15 +648,36 @@
 	},
 	"file_history":
 	[
-		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_layout.scss",
-		"/Users/jimram/Sites/la-belle-brides/styles/src/base-manifest.scss",
-		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_variables.scss",
-		"/Users/jimram/Sites/la-belle-brides/index.html",
-		"/Users/jimram/Sites/la-belle-brides/styles.html",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/hire.html",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/camellia-jenny-packham.html",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/gardenia-polly-edwards.html",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/may-jenny-packham.html",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/poppy-jenny-packham.html",
 		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_type.scss",
-		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_buttons.scss",
-		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_media.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/sections/_homepage.scss",
+		"/Users/jimram/Sites/la-belle-brides/about.html",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_variables.scss",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/acacia-silver-jenny-packham.html",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/components/_modal.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/components/_header.scss",
 		"/Users/jimram/Sites/la-belle-brides/scripts/wfl.js",
+		"/Users/jimram/Sites/la-belle-brides/404.html",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/components/_footer.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_buttons.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/components/_product-list.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/components/_product.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_forms.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_media.scss",
+		"/Users/jimram/Sites/la-belle-brides/product-details.html",
+		"/Users/jimram/Sites/la-belle-brides/styles.html",
+		"/Users/jimram/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/jimram/Sites/la-belle-brides/headdresses/thanks.html",
+		"/Users/jimram/Sites/la-belle-brides/labellebrides.sublime-project",
+		"/Users/jimram/Sites/la-belle-brides/labellebrides.sublime-workspace",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/base-manifest.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/sections/_product-page.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_layout.scss",
+		"/Users/jimram/Sites/la-belle-brides/index.html",
 		"/private/etc/apache2/users/jimram.conf",
 		"/etc/apache2/httpd.conf",
 		"/Users/jimram/Documents/remember to 'sudo apachectl restart'",
@@ -802,28 +775,7 @@
 		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/add-ons/_file-formats.scss",
 		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_file-formats.scss",
 		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/add-ons/_file-formats.scss, in `icon'",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/sg-style.css",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_type.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/2. buttons.html",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_labels.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/6. labels and badges.html",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_badges.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_text-editor.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/js/highlight.min.js",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/patterns/navigation.html",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/7. boxes and pins.html",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/_navs.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_navs.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_pins.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/3. tables.html",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/Archived/main-old.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/_core.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_wrappers.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_boxes.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_pins.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/4. media.html",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_islands.scss",
-		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_button-groups.scss"
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/sg-style.css"
 	],
 	"find":
 	{
@@ -841,6 +793,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"form",
+			"<meta name=\"viewport\" content=\"width=device-width\">",
 			"Hire from <b>£99.99</b>",
 			"FollowSymlinks",
 			"background-size",
@@ -966,9 +920,7 @@
 			"sho-footer",
 			"footer",
 			"hr",
-			"wrapper",
-			"avatar",
-			".js-flash"
+			"wrapper"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -976,6 +928,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
 			"Hire price <b>£35</b>",
 			"pull-right",
 			"$base-unit",
@@ -991,56 +944,56 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "styles/src/sass/components/_modal.scss",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 243,
+						"buffer_size": 7257,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								241,
-								241
+								4837,
+								4837
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 958.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "styles/src/sass/sections/_product-page.scss",
+					"file": "thanks.html",
 					"settings":
 					{
-						"buffer_size": 823,
+						"buffer_size": 1827,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								630,
-								630
+								966,
+								966
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -1052,18 +1005,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "product-details.html",
+					"file": "hire.html",
 					"settings":
 					{
-						"buffer_size": 5707,
+						"buffer_size": 6036,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1141,
-								1125
+								1850,
+								1850
 							]
 						],
 						"settings":
@@ -1080,18 +1033,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "styles/src/sass/components/_footer.scss",
+					"file": "styles/src/sass/sections/_product-page.scss",
 					"settings":
 					{
-						"buffer_size": 165,
+						"buffer_size": 1375,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								162,
-								162
+								1365,
+								1365
 							]
 						],
 						"settings":
@@ -1101,194 +1054,30 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 29.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "styles/src/sass/sections/_homepage.scss",
+					"file": "styles/src/sass/components/_footer.scss",
 					"settings":
 					{
-						"buffer_size": 746,
+						"buffer_size": 184,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								395,
-								395
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 5406,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1299,
-								1299
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 68.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "styles/src/sass/components/_header.scss",
-					"settings":
-					{
-						"buffer_size": 542,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								350,
-								350
+								182,
+								182
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "styles/src/sass/_type.scss",
-					"settings":
-					{
-						"buffer_size": 5249,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								931,
-								931
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 268.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "styles/src/base-manifest.scss",
-					"settings":
-					{
-						"buffer_size": 706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								614,
-								614
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "styles/src/sass/_variables.scss",
-					"settings":
-					{
-						"buffer_size": 3739,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2656,
-								2656
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1127.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "styles/src/sass/components/_product-list.scss",
-					"settings":
-					{
-						"buffer_size": 732,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								253,
-								253
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

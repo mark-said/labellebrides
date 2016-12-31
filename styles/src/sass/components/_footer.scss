@@ -3,7 +3,10 @@
 // --------------------------------------------------
 
 .footer {
-    background: $brand-secondary;
     @include clearfix();
     padding: $spacing-v 0;
+}
+
+.footer-content {
+  background: $brand-secondary;
 }

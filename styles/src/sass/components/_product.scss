@@ -3,11 +3,13 @@
 // --------------------------------------------------
 
 .product-meta {
-    border-bottom: 0.15em solid $brand-primary;
-    line-height: 1.9em; 
+    border-bottom: 2px solid $brand-primary;
+    line-height: 1.85em; 
 
     .btn {
         margin: 0;
         float: right;
+        position: relative;
+        top: -0.25em;
     }
 }

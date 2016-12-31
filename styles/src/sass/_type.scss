@@ -6,6 +6,7 @@ body {
   font-family: $base-font;
   color: $text-color;
   font-weight: $text-weight;
+  @extend .web-font;
 }
 
 // Web font loader - extend this
@@ -18,6 +19,7 @@ body {
       opacity:0;
   }
 
+  .no-js &,
   .wf-active &,
   .wf-inactive & {
       opacity: 1;
@@ -31,6 +33,7 @@ body {
   }
 
   // Old IE
+  .no-js &,
   .lt-ie7.wf-active &, 
   .lt-ie7.wf-inactive & {
     visibility: visible;
@@ -75,7 +78,6 @@ h1, h2, h3, h4, h5, h6 {
   margin:0;
   margin-top:$spacing-v*2;
   margin-bottom:$spacing-v/4;
-  @extend .web-font;
 
   @media (min-width: $screen-sm) {
     margin-top:$spacing-v*2.25;
@@ -171,7 +173,7 @@ p {
 ul,
 ol {
   list-style-position: outside;
-  padding-left: $padding-h *2;
+  padding-left: $padding-h *1.5;
 }
 
 li ul,
@@ -286,7 +288,7 @@ hr {
   height: 1px;
   border: 0;
   margin: 2rem 0;
-  border-top: 1px solid $base-border-color;
+  border-top: 2px solid $brand-primary;
   padding: 0;
 }
 

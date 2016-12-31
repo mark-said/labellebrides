@@ -3,10 +3,21 @@
 // --------------------------------------------------
 
 .modal {
-    display: none;
+    position: absolute;
+    left:-100%;
+    opacity: 0;
+    -webkit-transition:opacity .25s ease-in;
+    -moz-transition:opacity .25s ease-in;
+    -o-transition:opacity .25s ease-in;
+    transition:opacity .25s ease-in; 
+    height: 0;
+    overflow: hidden;
 
     &:target {
-        display: block;
+        position: relative;
+        left:0;
+        opacity: 1;
+        height: auto;
     }
 
     .modal-content {
@@ -14,4 +25,14 @@
         border-top: 1px dotted $brand-primary;
     }
 
+  .btn-dismiss {
+    font-size: 2em;
+    padding: 0em;
+    margin-top: -0.25em;
+    width: 1.25em;
+    height: 1.25em;
+    line-height: 1;
+    border-width:2px;
+    text-align: center;
+  }
 }

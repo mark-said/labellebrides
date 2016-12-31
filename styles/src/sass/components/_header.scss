@@ -3,12 +3,12 @@
 // --------------------------------------------------
 
 .header {
-    background: $brand-primary;
+    background: #f0d2c9;
     @include clearfix();
 }
 
 .logo {
-  font-size:2em;
+  font-size:1.5em;
   font-family: $font-hand;
   font-weight: lighter;
   text-transform: lowercase;
@@ -24,14 +24,19 @@
   margin-left: -0.5em;
   display: inline-block;
 
-  &:before {
-    content:"\ffe9";
-    font-size:0.75em;
-    margin-right: 0.25em;
-  }
+  // &:before {
+  //   content:"\ffe9";
+  //   font-size:0.75em;
+  //   margin-right: 0.25em;
+  // }
 
   &:hover {
     color:$white;
-    background:lighten($brand-primary,5%);
+    background:rbga(255,255,255,0.5);
+  }
+
+  img {
+    width: 3.5em;
+    margin:.25em 0;
   }
 }

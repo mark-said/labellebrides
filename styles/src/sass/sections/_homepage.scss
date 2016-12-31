@@ -4,13 +4,22 @@
 
 .hero-header {
     text-align: center;
+    border-bottom:1em solid $brand-secondary;
 
     .logo {
-        font-size: 4em;
+        font-size: 2em;
+
+        img {
+            max-width: 50%;
+            width:7em;
+        }
     }
 
     .strap {
-        font-size: 1.5em;
+        font-size: 2em;
+        br {
+            display: none;
+        }
     }
 
     @media (min-width: $screen-sm) {
@@ -22,20 +31,43 @@
         }
 
         .logo {
-            margin-left: 0.15em;
+            margin-left: -0.25em;
+            img {
+                max-width: 60%;
+                width:5em;
+            }
         }
 
         .strap {
-            font-size: 2.5em;
-            font-size: 7vmin;
+            font-size: 3em;
+            br {
+                display: block;
+            }
         }
 
         .hero-image {
-            max-width: 25%;
-            margin-left: 12%;
+            max-width: 27%;
+            margin-left: 10%;
             margin-top: 1em;
         }
 
+    }
+
+    @media (min-width: $screen-md) {
+
+        .logo {
+            font-size: 3em;
+            img {
+                max-width: 50%;
+            }
+        }
+
+        .strap {
+            font-size: 5em;
+            br {
+                display: block;
+            }
+        }
     }
 }
 
@@ -45,6 +77,5 @@
 }
 
 .strap {
-    text-transform: uppercase;
     font-weight: 100;
 }

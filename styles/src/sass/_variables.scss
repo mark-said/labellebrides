@@ -48,7 +48,7 @@ $alert-info:            #d4eef9;
 $font-serif:            'Merriweather',Georgia,Cambria,"Times New Roman",Times,serif;
 $font-sans:             'josefin sans','Merriweather Sans',"Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 $font-mono:             courier,"courier new", monospace;
-$font-hand:             'Monsieur La Doulaise', cursive;
+$font-hand:             'Damion', cursive;
 
 // Base 
 // -------------------------
@@ -90,13 +90,13 @@ $link-active-color:     $link-hover-color;
 // -------------------------
 
 $btn-font:                      $heading-font;
-$btn-padding:                   $padding-v/2 $padding-h;
-$btn-bg:                        $base-bg;
-$btn-color:                     $brand-primary;
+$btn-padding:                   $padding-v $padding-h $padding-v/2;
+$btn-bg:                        transparent;
+$btn-color:                     darken($brand-primary, 5%);
 $btn-border-color:              $btn-color;
 $btn-border-radius:             0;
-$btn-hover-bg:                  lighten($btn-color, 22%);
-$btn-hover-color:               darken($btn-color, 5%);
+$btn-hover-bg:                  lighten($btn-color, 25%);
+$btn-hover-color:               darken($btn-color, 10%);
 $btn-hover-border-color:        darken($btn-border-color, 5%);
 $btn-disabled-bg:               $gray-lightest;
 $btn-disabled-color:            $gray-lighter;

@@ -39,4 +39,11 @@
         margin-top: 0;
     }
 
+    &.blank {
+        display: none;
+        @media (min-width: $screen-sm) {
+            display: block;
+        }
+    }
+
 }

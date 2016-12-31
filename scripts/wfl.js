@@ -6,7 +6,7 @@
     google: { 
       families: [ 
       'Josefin+Sans:300,600,300italic,600italic:latin',
-      'Monsieur+La+Doulaise::latin' 
+      'Damion::latin' 
       ] 
     }
   };
