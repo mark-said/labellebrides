@@ -1,0 +1,25 @@
+//
+// Misc
+// --------------------------------------------------
+
+::-moz-selection {
+    background: $text-selection-bg;
+    text-shadow: none;
+    color: $text-selection-color;
+}
+
+::selection {
+    background: $text-selection-bg;
+    text-shadow: none;
+    color: $text-selection-color;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+

@@ -1,0 +1,17 @@
+//
+// Modal
+// --------------------------------------------------
+
+.modal {
+    display: none;
+
+    &:target {
+        display: block;
+    }
+
+    .modal-content {
+        max-width: 40em;
+        border-top: 1px dotted $brand-primary;
+    }
+
+}

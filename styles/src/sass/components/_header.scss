@@ -1,0 +1,37 @@
+//
+// Header
+// --------------------------------------------------
+
+.header {
+    background: $brand-primary;
+    @include clearfix();
+}
+
+.logo {
+  font-size:2em;
+  font-family: $font-hand;
+  font-weight: lighter;
+  text-transform: lowercase;
+  color:$white;
+
+  &:before {
+    content: "";
+  }
+}
+
+.btn-back {
+  padding:0 0.5em;
+  margin-left: -0.5em;
+  display: inline-block;
+
+  &:before {
+    content:"\ffe9";
+    font-size:0.75em;
+    margin-right: 0.25em;
+  }
+
+  &:hover {
+    color:$white;
+    background:lighten($brand-primary,5%);
+  }
+}

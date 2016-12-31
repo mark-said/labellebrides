@@ -1,0 +1,68 @@
+//
+// Layout
+// --------------------------------------------------
+
+// Sizing
+// ----------
+
+*, 
+*:before, 
+*:after {
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+
+html { 
+  font-size: $base-unit; // default is 16px
+}
+
+
+// Scaling
+// ----------
+
+body {
+  background: $base-bg;
+  min-width: 20em;
+  margin:0;
+  line-height: $base-line-height; // default is 1.5
+  font-size: 1em; // 12px
+
+  @media only screen and (min-width: $screen-lg) {
+    font-size: 1.25em; 
+  }
+  
+}
+
+
+// Structure 
+// ---------------------
+
+.wrapper {
+  padding: 0 $spacing-h;
+  margin:0 auto;
+  max-width: $screen-lg;
+  @include clearfix();
+
+  @media only screen and (min-width: $screen-sm) {
+    padding: 0 $spacing-h*1.5;
+  }
+
+  @media only screen and (min-width: $screen-md) {
+    padding: 0 $spacing-h*2;
+  }
+
+}
+
+
+// helpers
+// ---------------------
+
+.pull-right {
+  float:right!important;
+}
+
+.pull-left {
+  float:left!important;
+}

@@ -1,0 +1,1364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"spac",
+				"spacing-h"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"brand-",
+				"brand-success"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"gray",
+				"grayLighter"
+			],
+			[
+				"brand",
+				"brand-danger"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"b",
+				"border-width"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"iin",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"btn",
+				"btn-plain"
+			],
+			[
+				"edit",
+				"editable"
+			],
+			[
+				"inlin",
+				"inline-list"
+			],
+			[
+				"wr",
+				"wrap-min"
+			],
+			[
+				"box",
+				"box-head"
+			],
+			[
+				"wrap",
+				"wrap-min-h"
+			],
+			[
+				"pin",
+				"pin-tr"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"pin-",
+				"pin-tl"
+			],
+			[
+				"ha",
+				"has-pin"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"sub",
+				"sub-title"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"page",
+				"page-block"
+			],
+			[
+				"ratin",
+				"rating-buttons"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"pos",
+				"post-image"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"ce",
+				"clear"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inli",
+				"inline-list"
+			],
+			[
+				"mai",
+				"margin-top"
+			],
+			[
+				"post-",
+				"post-meta"
+			],
+			[
+				"Font",
+				"font-family"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"focus",
+				"focusable"
+			],
+			[
+				"top",
+				"topbar"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"post",
+				"post-title"
+			],
+			[
+				"inline-",
+				"inline-list"
+			],
+			[
+				"main",
+				"main-nav"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"album",
+				"album-title"
+			],
+			[
+				"al",
+				"album-meta"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"wind",
+				"windowH"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"men",
+				"menutrigger"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"section",
+				"section-title"
+			],
+			[
+				"no-r",
+				"no-repeat"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"quot",
+				"quote-container"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"quote",
+				"quote-results"
+			],
+			[
+				"vertica",
+				"vertical-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"quote-",
+				"quote-process"
+			],
+			[
+				"w",
+				"winWidth"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"menu",
+				"menu-trgr"
+			],
+			[
+				"ab",
+				"absolute"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "styles/src/sass/components/_modal.scss",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/sections/_product-page.scss",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "product-details.html",
+			"settings":
+			{
+				"buffer_size": 5707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/components/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/sections/_homepage.scss",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5406,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/components/_header.scss",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/_type.scss",
+			"settings":
+			{
+				"buffer_size": 5249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/base-manifest.scss",
+			"settings":
+			{
+				"buffer_size": 706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 3739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/src/sass/components/_product-list.scss",
+			"settings":
+			{
+				"buffer_size": 732,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"gi",
+				"Gist: Open Gist"
+			],
+			[
+				"g",
+				"Gist: Open Gist"
+			],
+			[
+				"Package Control",
+				"Package Control: Enable Package"
+			],
+			[
+				"gs",
+				"Gist: Open Gist"
+			],
+			[
+				"inse",
+				"Gist: Insert Gist"
+			],
+			[
+				"creat",
+				"Gist: Create Public Gist"
+			],
+			[
+				"",
+				"Gist: Create Public Gist"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_layout.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/base-manifest.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_variables.scss",
+		"/Users/jimram/Sites/la-belle-brides/index.html",
+		"/Users/jimram/Sites/la-belle-brides/styles.html",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_type.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_buttons.scss",
+		"/Users/jimram/Sites/la-belle-brides/styles/src/sass/_media.scss",
+		"/Users/jimram/Sites/la-belle-brides/scripts/wfl.js",
+		"/private/etc/apache2/users/jimram.conf",
+		"/etc/apache2/httpd.conf",
+		"/Users/jimram/Documents/remember to 'sudo apachectl restart'",
+		"/Users/jimram/Sites/jimramsden.com/site/config/config.jimram.lvh.me.php",
+		"/Users/jimram/Sites/jimramsden.com/.htaccess",
+		"/Users/jimram/Sites/lasso-plan-styleguide/styles/src/bootstrap-3-custom/_alerts.scss",
+		"/Users/jimram/Sites/lasso-plan-styleguide/web/scripts/compiled/footer.js",
+		"/Users/jimram/Sites/lasso-plan-styleguide/web/index.php",
+		"/Users/jimram/Sites/lasso-plan-styleguide/styles/bootstrap-3-custom/_variables.scss",
+		"/Users/jimram/Sites/lasso-plan-holding-page/web/scripts/src/respond.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/landing-page-old.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/views/_landing-page.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/views/_landing-page-animations.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/scripts/site.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_variables.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/_mixins.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/main.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/bootstrap.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_layout.scss",
+		"/Users/jimram/Downloads/scrollorama-master/css/style.css",
+		"/Users/jimram/Downloads/scrollorama-master/js/jquery.scrollorama.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_boxes.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/views/_landing-page-old.scss",
+		"/Users/jimram/Sites/df12/layout/js/script.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/scripts/hello.coffee",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/scripts/main.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/js/site.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/common/footer.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_navbar.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/modules/text-editor.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/_grid.scss",
+		"/Users/jimram/Sites/jimramsden.com/myblog/assets/css/home.css",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_forms.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_forms.scss",
+		"/Users/jimram/Desktop/tl.js",
+		"/Users/jimram/Sites/df13/js/main.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/js/wfl.js",
+		"/Users/jimram/Sites/jimramsden.com/myblog/assets/css/home.min.css",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_mixins.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_forms.scss, in `breakpoint'",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_grid.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/main.css",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/common/header.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_scaffolding.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/views/_login.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_helpers.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/common/topbar.php",
+		"/Users/jimram/Documents/LassoPlan - copy.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/_variables.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/modules/_topbar.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_shame.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_wrappers.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_topbar.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/login.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/sign-in.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/resources.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/sign-up.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_search-results.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_pagination.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-block-lunch.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-block-lesson.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-block-free.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-block-break.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-block-before.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-block-after.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/common/planner-block-nav.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/modules/planner-day.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_buttons.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/modules/planner-nav.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_modals.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/patterns/pagination.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/_responsive-utilities.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/modules/topbar.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_tables.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_lesson.scss, in `hide-text'",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner-day.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/modules/planner-block.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/planner.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_planner.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_dropdowns.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/modules/planner-week.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/common/planner-nav.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/index.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/components/modal.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/templates/includes/topbar.php",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/_mixins.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/add-ons/_file-types.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/_icons.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/add-ons/_file-types.scss, in `icon'",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/css/font-awesome.css",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/_path.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/_bootstrap.scss",
+		"/Users/jimram/Dropbox/Jim's Dropbox/Platform/LassoPlan/prototype/block.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/font-awesome.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/add-ons/_file-formats.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_file-formats.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/add-ons/_file-formats.scss, in `icon'",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/sg-style.css",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_type.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/2. buttons.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_labels.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/6. labels and badges.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_badges.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_text-editor.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/js/highlight.min.js",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/patterns/navigation.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/7. boxes and pins.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/components/sass-bootstrap/vendor/assets/stylesheets/bootstrap/_navs.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_navs.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/add-ons/_pins.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/3. tables.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/Archived/main-old.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/font-awesome-2/scss/_core.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_wrappers.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_boxes.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_pins.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/markup/base/4. media.html",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/lassoplan/_islands.scss",
+		"/Users/jimram/Sites/lasso-plan/doc/styleguide/app/styles/bootstrap-3-custom/_button-groups.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Hire from <b>£99.99</b>",
+			"FollowSymlinks",
+			"background-size",
+			"scrollHandler",
+			"#main-nav",
+			"main-nav",
+			"border",
+			"push",
+			"photos",
+			"photo",
+			"movie",
+			"video",
+			"music",
+			"padding",
+			".navbar .nav > li",
+			"text",
+			"nav",
+			"nav-tab",
+			"$baseUnit",
+			"nav",
+			".nav",
+			"nav",
+			"dropdown-menu",
+			"caret",
+			"padding",
+			"button",
+			"color",
+			".the-content",
+			".the_content",
+			".blog-content",
+			".the-content",
+			"entypo",
+			".primary",
+			".catego",
+			".post-sum",
+			".categ",
+			"about_author",
+			".category-header .icon",
+			"category-header icon",
+			"category icon",
+			".blog-cont",
+			".blog-content",
+			".single .blog-content",
+			".post-su",
+			"sign",
+			"rocket",
+			"cat-item-6",
+			"icon-menu",
+			"icon-light",
+			"icon-tools",
+			"light-b",
+			"thumb",
+			"thumbs-up",
+			"brief",
+			"factory",
+			"bried",
+			".cat-item",
+			"cat-item",
+			"rocket",
+			"tools",
+			"rocket",
+			"factory",
+			"industry",
+			"code",
+			"thumb",
+			"mouse",
+			"tools",
+			"author",
+			".blog",
+			".primary-content",
+			".blog .primary-content",
+			"single",
+			"post-summary",
+			"blog",
+			".entry-summary",
+			".blog-content",
+			".blog",
+			".primary-content",
+			"single",
+			".primary-content ",
+			"notes",
+			"data",
+			"cancel",
+			"delete",
+			"delet",
+			"edit",
+			".prev",
+			"notes",
+			"lesson",
+			"network",
+			"post-content hr",
+			"li",
+			".box ",
+			".box",
+			".rating-",
+			".rating",
+			".rating-widget",
+			"rating-widget",
+			".box",
+			"#page",
+			":target",
+			"section-header",
+			".box",
+			"box",
+			"have you",
+			"textarea",
+			"blockquote",
+			"mini-pr",
+			"close-nav",
+			"inline-list",
+			".mini",
+			".mini-profile",
+			".mini",
+			".cluster",
+			".cluster img",
+			".mini",
+			".btn",
+			".photos",
+			".photo",
+			".post-meta",
+			".account",
+			"footer",
+			"sho-footer",
+			"footer",
+			"hr",
+			"wrapper",
+			"avatar",
+			".js-flash"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Hire price <b>£35</b>",
+			"pull-right",
+			"$base-unit",
+			"script",
+			"src"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "styles/src/sass/components/_modal.scss",
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/src/sass/sections/_product-page.scss",
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "product-details.html",
+					"settings":
+					{
+						"buffer_size": 5707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1141,
+								1125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "styles/src/sass/components/_footer.scss",
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "styles/src/sass/sections/_homepage.scss",
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1299,
+								1299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "styles/src/sass/components/_header.scss",
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "styles/src/sass/_type.scss",
+					"settings":
+					{
+						"buffer_size": 5249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								931,
+								931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "styles/src/base-manifest.scss",
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								614,
+								614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "styles/src/sass/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 3739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2656,
+								2656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1127.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "styles/src/sass/components/_product-list.scss",
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true
+}

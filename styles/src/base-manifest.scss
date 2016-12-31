@@ -1,0 +1,37 @@
+//
+// Base Manifest
+// --------------------------------------------------
+
+// Reset
+// -----
+@import "css/normalize.css";
+
+
+// Compile SASS
+// ------------
+
+// Variables & Mixins
+@import "sass/variables";
+@import "sass/mixins";
+
+// Core styles
+@import "sass/layout";
+@import "sass/grid";
+@import "sass/type";
+@import "sass/media";
+@import "sass/forms";
+@import "sass/buttons";
+@import "sass/helpers";
+@import "sass/misc";
+
+
+// Components 
+@import "sass/components/header";
+@import "sass/components/footer";
+@import "sass/components/product";
+@import "sass/components/product-list";
+@import "sass/components/modal";
+
+// Section styles
+@import "sass/sections/homepage";
+@import "sass/sections/product-page";

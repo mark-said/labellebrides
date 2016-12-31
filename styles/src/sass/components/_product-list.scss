@@ -1,0 +1,42 @@
+//
+// Product List
+// --------------------------------------------------
+
+.product-list {
+    margin-top: $spacing-v;
+    @include clearfix();
+
+    .list-title {
+        color: $gray-light;
+        font-weight: normal;
+        margin-bottom: $spacing-v;
+    }
+
+    @media (min-width: $screen-sm) {
+        margin-left: -$spacing-h;
+        margin-right: -$spacing-h;
+
+        .list-title {
+            padding: 0 $spacing-h;
+        }
+    }
+}
+
+.product-list-item {
+
+    @media (min-width: $screen-sm) {
+        width:50%;
+        float: left;
+        padding: $spacing-v $spacing-h;
+    }
+
+    @media (min-width: $screen-md) {
+        width:33%;
+    }
+
+    .product-title {
+        font-size: 1.25em;
+        margin-top: 0;
+    }
+
+}
