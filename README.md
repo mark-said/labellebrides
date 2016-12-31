@@ -1,3 +1,3 @@
 # labellebrides.com
 Designer Headdresses for hire
-![Screenshot](/assets/img/screenshot.jpg?raw=true)
+![Screenshot](/images/screenshot.jpg?raw=true)
